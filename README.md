@@ -1,5 +1,5 @@
-# Quake_MultiplayerDesign
-*Hell Manor*  
+# Quake_MultiplayerDesign_Treachery
+*Treachery*  
 
 A competitive deathmatch multiplayer Quake level for two to four players.
 
